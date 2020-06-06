@@ -274,4 +274,4 @@ hc <- hclust(dist(t(exprs(eset.norm))))
 plot(hc)
 ```
 
-![](test_GEOquery_Limma_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](GEOquery_Limma_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
